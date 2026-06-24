@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orgadm
-- 👀 I’m interested in DACBARBOS Brand
+- 👀 I’m interested in DACBARBOS® Brand
 - 🌱 I’m currently learning many things
-- 💞️ I’m the CIO/CTO of DACBARBOS Brand
+- 💞️ I’m the CIO/CTO of DACBARBOS® Brand
 - 📫 How to reach me admin@dacbarbos.eu
 
 <!---
